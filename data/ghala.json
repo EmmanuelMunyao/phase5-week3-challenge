@@ -1,5 +1,5 @@
 {
-  "next_id": 33,
+  "next_id": 34,
   "crops": [
     "maize",
     "beans",
@@ -172,6 +172,14 @@
       "farmer": "Kamau",
       "weight_kg": 100,
       "id": 32,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 33,
       "bags": 100,
       "bags_left": 100
     }
