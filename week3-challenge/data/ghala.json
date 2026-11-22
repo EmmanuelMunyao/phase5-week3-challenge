@@ -1,0 +1,63 @@
+{
+  "next_id": 10,
+  "crops": [
+    "maize",
+    "beans",
+    "wheat",
+    "sorghum"
+  ],
+  "receipts": [
+    {
+      "crop": "maize",
+      "weight_kg": 100,
+      "id": 1
+    },
+    {
+      "crop": "beans",
+      "weight_kg": 50,
+      "id": 4
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 5
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 6
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 8
+    }
+  ],
+  "withdrawals": [
+    {
+      "receipt_id": 1,
+      "weight_kg": 30,
+      "id": 2
+    },
+    {
+      "receipt_id": 1,
+      "weight_kg": 5,
+      "id": 3
+    },
+    {
+      "reason": "sale",
+      "receipt_id": 1,
+      "weight_kg": 10,
+      "id": 7
+    },
+    {
+      "reason": "sale",
+      "receipt_id": 1,
+      "weight_kg": 10,
+      "id": 9
+    }
+  ]
+}
