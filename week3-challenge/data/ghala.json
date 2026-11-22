@@ -1,5 +1,5 @@
 {
-  "next_id": 10,
+  "next_id": 33,
   "crops": [
     "maize",
     "beans",
@@ -34,6 +34,146 @@
       "farmer": "Kamau",
       "weight_kg": 100,
       "id": 8
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 10
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 12
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 14
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 16
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 18
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 19
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 20,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 21,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 22,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 23,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 24,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 25,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 26,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 27,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 28,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 29,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 30,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 31,
+      "bags": 100,
+      "bags_left": 100
+    },
+    {
+      "crop": "maize",
+      "farmer": "Kamau",
+      "weight_kg": 100,
+      "id": 32,
+      "bags": 100,
+      "bags_left": 100
     }
   ],
   "withdrawals": [
@@ -58,6 +198,30 @@
       "receipt_id": 1,
       "weight_kg": 10,
       "id": 9
+    },
+    {
+      "reason": "sale",
+      "receipt_id": 1,
+      "weight_kg": 10,
+      "id": 11
+    },
+    {
+      "reason": "sale",
+      "receipt_id": 1,
+      "weight_kg": 10,
+      "id": 13
+    },
+    {
+      "reason": "sale",
+      "receipt_id": 1,
+      "weight_kg": 10,
+      "id": 15
+    },
+    {
+      "reason": "sale",
+      "receipt_id": 1,
+      "weight_kg": 10,
+      "id": 17
     }
   ]
 }
